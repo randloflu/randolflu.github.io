@@ -26,7 +26,7 @@
             <div class="profile-container">
                 <img class="profile" style="width: 119px;height:166px ;" src="assets/images/profile.png" alt="禄若阳" />
                 <h1 class="name">禄若阳</h1>
-                <h3 class="tagline">正在找工作</h3>
+                <h3 class="tagline">软件开发</h3>
             </div><!--//profile-container-->
             
             <div class="contact-container container-block">
